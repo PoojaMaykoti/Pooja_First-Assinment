@@ -1,0 +1,99 @@
+
+
+
+
+.img2
+{
+  height: 180px;
+    background-color: grey;
+    width: 306px;
+
+}
+
+
+.container1
+{
+ margin-left: 20px;
+  height: 390px;
+  /* border: 1px solid black; */
+  width: 290px;
+  border-radius: 15px;
+ float: left;
+  padding: 1rem;
+  align-items: center;
+
+  box-shadow: 5px 5px 10px rgb(151,140,140);
+}
+
+button{
+  border-style: none;
+  background-color: white;
+  color: purple;
+  font-weight: bold;
+}
+
+.card-icon
+{
+  margin-left: 15px;
+  font-size: 17px;
+  color: black;
+}
+
+h1
+{
+  font-size: 29px;
+}
+
+
+.container2
+{
+  height:
+}
+.card-btn button:hover{
+background-color: #fdf6f8;
+}
+
+.container3
+{
+  margin-left: 20px;
+  height: 380px;
+  width: 300px;
+  border-radius: 15px;
+  padding: 1rem;
+  float: left;
+    box-shadow: 5px 5px 10px rgb(151,140,140);
+}
+
+.container5{
+
+  width: 290px;
+  margin-left: 20px;
+  border-radius: 15px;
+  padding: 1rem;
+  float: left;
+ margin-top: 20px;
+  box-shadow: 5px 5px 10px rgb(151,140,140);
+}
+
+.img4
+{
+  height: 140px;
+  width: 270px;
+}
+
+
+.header4
+{
+  display:flex;
+  flex-direction:
+
+}
+/* .main-container
+{
+  display:flex;
+   flex-direction: row;
+   flex-wrap:wrap;
+   gap:20px;
+    align-items: flex-start;
+      grid-template-columns:repeat(3,17.5);
+} */
